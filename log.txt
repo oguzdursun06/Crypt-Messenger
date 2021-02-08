@@ -1,0 +1,9 @@
+Aes Key: CGidAUiv38NkZKIGmzLp4Q==
+Aes Vector: DhvP72GS5X1uYo2l8xRAig==
+Des Key: cBNF+CVPiuo=
+Des Vector: DEOfZGVySjc=
+Oğuzhan> 0EC6W+jk383EJimlxfNfVw==
+Samet> 0EC6W+jk3+SsTUmMopslmuS8mdT5txO5Kqm9h8Tu0Ls=
+Alperen> 30CmE+3jnqa4XUTNtT7nM0XA+gBYyQmjMLOnnd70yqE=
+Samet> yUSlUuSNtc/GJCunx/FdVQ==
+Alperen> zkCkUuSNtc/GJCunx/FdVQ==
