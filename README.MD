@@ -1,4 +1,4 @@
-## Client-Server Encryption/Decryption Messaging Application
+## Socket Chat Application
 
 ***Information Security Lab Assignment*** 
 
